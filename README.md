@@ -1,6 +1,7 @@
 # Simple Key-Value HTTP Server
 
 This is a lightweight HTTP server with key-value storage functionality. It allows you to store and retrieve data using specific keys through HTTP PUT and GET requests.
+(Implemented for [Cybozu's internship](https://cybozu.co.jp/company/job/recruitment/intern/platform.html) pre-assignment)
 
 ## Features
 
